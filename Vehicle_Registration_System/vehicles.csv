@@ -1,0 +1,11 @@
+name,r_cost,tyre_count,is_available
+Toyota Corolla,133,2,True
+Tata Ace,9,6,True
+Suzuki Swift,183,4,True
+Suzuki Swift,111,4,True
+Ford F-150,106,4,True
+Yamaha FZ,130,2,True
+Toyota Corolla,125,4,True
+Honda Civic,82,4,True
+Suzuki Swift,181,2,True
+Yamaha FZ,194,2,True
